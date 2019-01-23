@@ -1,0 +1,5 @@
+targets = [ "//:microhttpd" ]
+
+[[dependency]]
+package = "github.com/buckaroo-pm/host-pthread"
+version = "branch=master"

@@ -13,3 +13,10 @@ Makefile
 *.la
 libtool
 stamp-h1
+
+.buckd
+buck-out
+.buckconfig.local
+.buckconfig.d
+buckaroo
+buckaroo_macros.bzl
